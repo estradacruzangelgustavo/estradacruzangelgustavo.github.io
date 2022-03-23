@@ -1,0 +1,20 @@
+---
+title: "Explorando los datos del Banco Mundial"
+author: "Ángel Gustavo Estrada Cruz"
+date: '2022-03-23'
+output: html_document
+---
+
+**Explorando los datos del Banco Mundial**
+
+1.  **¿Cuál es el nombre de la base de datos?**
+
+Acceso a la electricidad (% de la población total)
+
+**2. ¿Cuál es el código de la base de datos?**
+
+1.1_ACCESO.ELECTRICIDAD.TOT
+
+3.  **¿Por qué elegiste está base de datos?**
+
+Por que se me hizo interesante saber cuentas personas cuentan con algo tan fundamental como la electricidad, hoy en día no se puede hacer nada sin ella
